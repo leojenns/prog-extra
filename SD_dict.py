@@ -26,6 +26,8 @@ for naam in SD:
     else:
         onvoldoende.append(naam)
 
-        
+
 print(f'{voldoende} hebben een voldoende')
 print(f'{onvoldoende} hebben een onvoldoende')
+
+
